@@ -14,10 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer exploring and building 
 
 ![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=sreelakshmi2312&theme=tokyonight)
 
----
-
-### 📅 Contribution Graph
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=sreelakshmi2312&theme=tokyonight)
 
 
 ## 🛠️ Tech Stack & Tools
