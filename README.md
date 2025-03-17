@@ -12,7 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer exploring and building 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmi2312&theme=tokyonight)
 
-![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=sreelakshmi2312&theme=tokyonight)
+![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=sreelakshmi2312&theme=tokyonight)
+
 
 
 
