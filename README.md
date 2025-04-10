@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Sreelakshmi
+# Hi there 👋 I'm Sreelakshmi
 
 Welcome to my GitHub profile! I'm a passionate developer exploring and building projects in full-stack web development, real-time applications, and system design.
 
