@@ -13,7 +13,7 @@
 I'm a passionate **full-stack developer** with a love for creating scalable web applications and real-time systems. Currently exploring the depths of system design while building innovative projects that solve real-world problems.
 
 -  I'm currently working on **real-time collaborative applications**
--  I'm learning **advanced system design patterns** and **cloud architecture**
+-  I'm learning **advanced system design patterns** 
 -  I'm looking to collaborate on **open source projects**
 -  Ask me about **React, FastAPI, or system design**
 -  How to reach me: **sreelakshmiudhayan@gmail.com** 
@@ -108,20 +108,7 @@ const sreelakshmi = {
 
 ---
 
-##  Key Skills & Expertise
 
-<div align="center">
-
-| Domain | Technologies & Skills |
-|--------|----------------------|
-| ** Specializations** | UML Diagrams & System Design, API Development & Integration |
-| ** Real-time Apps** | WebSockets, Server-Sent Events, Live Data Synchronization |
-| ** Data Visualization** | Interactive Charts, Dashboard Development, Analytics |
-| ** Architecture** | Microservices, Scalable System Design, Database Optimization |
-
-</div>
-
----
 
 ##  Contribution Activity
 
