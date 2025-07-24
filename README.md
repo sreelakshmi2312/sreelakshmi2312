@@ -31,11 +31,7 @@ I'm a passionate **full-stack developer** with a love for creating scalable web 
 
 </div>
 
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreelakshmi2312&theme=tokyonight&hide_border=true)
 
-</div>
 
 <div align="center">
   
