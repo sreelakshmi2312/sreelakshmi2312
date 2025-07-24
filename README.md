@@ -17,7 +17,7 @@ I'm a passionate **full-stack developer** with a love for creating scalable web 
 -  I'm looking to collaborate on **open source projects**
 -  Ask me about **React, FastAPI, or system design**
 -  How to reach me: **sreelakshmiudhayan@gmail.com** 
--  Fun fact: I love turning complex problems into elegant solutions!
+
 
 ---
 
