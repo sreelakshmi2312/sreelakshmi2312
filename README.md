@@ -93,20 +93,7 @@ I'm a passionate **full-stack developer** with a love for creating scalable web 
 
 ---
 
-##  What I'm Passionate About
 
-```javascript
-const sreelakshmi = {
-    specialties: ["Full-Stack Development", "Real-time Applications", "System Design"],
-    currentFocus: "Building scalable web applications with modern tech stack",
-    architecture: ["Microservices", "Event-driven", "RESTful APIs"],
-    databases: ["PostgreSQL", "MongoDB"],
-    currentlyLearning: ["Advanced System Design", "Cloud Architecture", "DevOps"],
-    funFact: "I believe great code is like a good joke - it needs no explanation! 😄"
-};
-```
-
----
 
 
 
